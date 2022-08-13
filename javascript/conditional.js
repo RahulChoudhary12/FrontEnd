@@ -49,6 +49,7 @@ if(i%10==4){
         }
         */
 
+        /*
         const a=45;
         const b=256;
         const c=4;
@@ -62,3 +63,4 @@ if(i%10==4){
             d=c;
         }
      console.log(d+"Greatest");
+     */
