@@ -64,3 +64,15 @@ if(i%10==4){
         }
      console.log(d+"Greatest");
      */
+
+/* WAP Gratest of two number */    
+
+let a=8;
+let b=6;
+if(a>b){
+
+    console.log(a);
+}
+else{
+    console.log(b);
+}
