@@ -1,0 +1,22 @@
+.na{
+box-sizing: border-box;
+display: flex;
+}
+
+.im{
+  margin: 5px 60px;
+    box-sizing: border-box;
+}
+
+.list{
+color: black;
+display: flex;
+box-sizing: border-box;
+margin: auto;
+}
+
+.bg{
+    background-image: url(body.jpg);
+    background-attachment: fixed;
+    
+}
